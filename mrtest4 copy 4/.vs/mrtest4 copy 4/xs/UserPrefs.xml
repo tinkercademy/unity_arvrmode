@@ -1,0 +1,25 @@
+﻿<Properties StartupConfiguration="{0B11790C-8FDE-01EF-EBAD-1661201242CA}|">
+  <MonoDevelop.Ide.Workbench ActiveDocument="Assets/Samples/Google Cardboard XR Plugin for Unity/1.5.0/Hello Cardboard/Scripts/VrModeController.cs">
+    <Files>
+      <File FileName="Assets/Plugins/Android/AndroidManifest.xml" Line="7" Column="61" />
+      <File FileName="Assets/GoogleARCore/Examples/Common/Materials/Shaders/OcclusionImageEffect.shader" Line="92" Column="1" />
+      <File FileName="Assets/Samples/Google Cardboard XR Plugin for Unity/1.5.0/Hello Cardboard/Scripts/VrModeController.cs" Line="1" Column="1" />
+    </Files>
+    <Pads>
+      <Pad Id="ProjectPad">
+        <State name="__root__">
+          <Node name="mrtest4 copy 4" expanded="True">
+            <Node name="Assets" expanded="True" selected="True" />
+          </Node>
+        </State>
+      </Pad>
+    </Pads>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.ItemProperties.Assembly-CSharp PreferredExecutionTarget="a308f168-e995-424f-9e63-6e8f49633d93" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MultiItemStartupConfigurations />
+</Properties>
